@@ -1,1 +1,2 @@
 kddcup.data filter=lfs diff=lfs merge=lfs -text
+KDD_test filter=lfs diff=lfs merge=lfs -text
